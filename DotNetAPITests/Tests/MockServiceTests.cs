@@ -1,4 +1,4 @@
-using DotNetAPITests.Services;
+using DotNetAPIHelpers.Services;
 using DotNetAPITests.Verifications;
 using NUnit.Framework;
 using System.Net;

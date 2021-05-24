@@ -1,9 +1,9 @@
-﻿using DotNetAPITests.Client;
+﻿using DotNetAPIHelpers.Client;
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace DotNetAPITests.Services
+namespace DotNetAPIHelpers.Services
 {
     public class MockService
     {
